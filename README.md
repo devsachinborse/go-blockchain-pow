@@ -22,3 +22,6 @@ Send a BPM like `{"BPM":75}` in the body of this post request.use another termin
 
 Your terminal will start performing the work.
 Thank You...!
+
+
+![POW](https://github.com/devsachinborse/go-blockchain-pow/assets/111965224/04605b77-904f-4409-bcb0-7a73521a2616)
